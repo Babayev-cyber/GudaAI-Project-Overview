@@ -1,4 +1,4 @@
-# -GudaAI-Project-Overview
+# GudaAI Project-Overview
 End-to-end AI-powered inventory and product traceability system with unique barcode tracking, label recognition, a fine-tuned local language model, and voice-enabled database querying.
 
 
