@@ -73,4 +73,4 @@ The repository is primarily implemented in TypeScript, with additional component
 ## Project Availability
 
 The source code is maintained in a private repository because it contains proprietary implementation details. This public repository provides a technical overview of the system, its architecture, and my contributions.
-
+You can look at some screenshots from the app, they are available in screenshots folder.
